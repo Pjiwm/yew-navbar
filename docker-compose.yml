@@ -1,0 +1,7 @@
+services:
+  rust:
+    container_name: yew_app
+    tty: true
+    build: .
+    ports:
+      - 80:8080
