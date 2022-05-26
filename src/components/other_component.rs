@@ -1,5 +1,5 @@
 use yew::prelude::*;
-use yew_router::{history::History, hooks::use_history, prelude::RouterScopeExt};
+use yew_router::{history::History, prelude::RouterScopeExt};
 
 use crate::router::Route;
 
