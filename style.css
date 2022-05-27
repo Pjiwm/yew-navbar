@@ -14,6 +14,16 @@
     font-size: 130px;
 }
 
+.nav-link a {
+    color: black !important;
+    text-decoration: none;
+}
+
+.nav-link a:hover {
+    color: white !important;
+    text-decoration: underline;
+}
+
 .container button {
     font-size: 70px;
     background: black;
