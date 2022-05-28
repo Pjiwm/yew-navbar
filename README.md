@@ -1,3 +1,3 @@
 # yew-navbar
-
-Working navbar built in yew using the yew router.
+Simple Navbar example using the Yew framework for Rust.
+The navbar makes use of the Yew router crate.
